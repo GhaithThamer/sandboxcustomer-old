@@ -2,7 +2,7 @@ import "./styles.css";
 import Customer from "./Customer.js";
 
 export default function App() {
-  const customerList = ["INGOLSTUD", "ULM", "DH", "ROSENHEIM","BERLIN","MAGDEBURG"];
+  const customerList = ["INGOLSTUD", "ULM", "DH", "ROSENHEIM","BERLIN","MAGDEBURG","ALTENBURG"];
   return (
     <div className="App">
       <h1>Hello CodeSandbox</h1>
